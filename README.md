@@ -1,1 +1,1 @@
-# Vscode-Themes
+# VScode-Themes
